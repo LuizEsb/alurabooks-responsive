@@ -1,7 +1,6 @@
-# Projeto de Desenvolvimento Web
+# Página Web de Biblioteca
 
-Este projeto contém uma interface de um site fictício "AluraBooks" feito por mim
-durante meus estudos. O site possui display responsivo e foi desenvolvido no método mobile-first.
+Este projeto web contém uma interface de um site fictício "AluraBooks" feito por mim durante meus estudos com foco na prática da aplicação de responsividade. O site possui display responsivo e foi desenvolvido no método mobile-first. 
 
 ## Confira a versão completa [aqui](https://web-alurabooks-olive.vercel.app/)
 
